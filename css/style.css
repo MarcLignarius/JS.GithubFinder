@@ -15,3 +15,17 @@ body {
 footer {
   flex-shrink: 0;
 }
+
+.btn-primary {
+  border-radius: 0.25rem;
+}
+
+@media (max-width: 768px) {
+  .badge {
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+  #profile .col-lg-3 {
+    text-align: center;
+  }
+}
