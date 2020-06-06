@@ -1,6 +1,6 @@
 # JS.GithubFinder
 
-#### _May 2020_
+#### _June 2020_
 
 #### By _**Marc Davies**_
 
